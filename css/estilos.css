@@ -8,8 +8,8 @@
 
 body {
   align-items: center;
-  background-image: url(/tiger.jpg);
-  background-repeat:initial;
+  background-image: url(../tiger.jpg);
+  background-repeat:initial; /*se repite el fondo varias veces*/
   background-size: 50%;
 
 
