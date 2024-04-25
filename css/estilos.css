@@ -6,9 +6,9 @@
   --luz: rgb(229, 255, 0);
 }
 
-body, .fondo {
+body {
   align-items: center;
-  background: url(/tiger.jpg);
+  background-image: url(/tiger.jpg);
   background-repeat:initial;
   background-size: 50%;
 
